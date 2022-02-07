@@ -1,9 +1,9 @@
 ##
 ### Olá! Eu sou Joe Pereira ✌
 ## 
-## Em busca da primeira oportunidade de trabalho,coloco-me a disposição para iniciar minha trajetória profissional na empresa.Tenho força de vontade para aprender e ajudar na conquista dos melhores resultados!!
+## Em busca da primeira oportunidade de trabalho,coloco-me a disposição para iniciar minha trajetória profissional na empresa.Tenho força de vontade para aprender e ajudar na conquista dos melhores resultados.
 
-
+- 📍  Goiânia, Goias - Brazil
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Jquery
 - 😄 Pronouns: Ele/Dele
@@ -28,7 +28,6 @@
 ##
     
 <div>
- <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/juengs target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatojuengsfinance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
