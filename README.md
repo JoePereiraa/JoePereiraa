@@ -1,7 +1,8 @@
 ##
-### Olá! Eu sou Joe Pereira 👋
-- 🏙 Moro em Goiânia-Goias
-##
+### Olá! Eu sou Joe Pereira ✌
+## 
+## Em busca da primeira oportunidade de trabalho,coloco-me a disposição para iniciar minha trajetória profissional na empresa.Tenho força de vontade para aprender e ajudar na conquista dos melhores resultados!!
+
 
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando Jquery
