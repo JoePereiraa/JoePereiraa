@@ -1,9 +1,10 @@
 ##
 ### Olá! Eu sou Joe Pereira 👋
+- 🏙 Moro em Goiânia-Goias
 ##
 
 - 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando Java script
+- 🌱 Estudando Jquery
 - 😄 Pronouns: Ele/Dele
 
 <div>
