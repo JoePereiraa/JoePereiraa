@@ -1,7 +1,7 @@
 ##
-### Olá! Eu sou Joe Pereira ✌
+## Olá! Eu sou Joe Pereira ✌
 ## 
-## Em busca da primeira oportunidade de trabalho,coloco-me a disposição para iniciar minha trajetória profissional na empresa.Tenho força de vontade para aprender e ajudar na conquista dos melhores resultados.
+### Em busca da primeira oportunidade de trabalho,coloco-me a disposição para iniciar minha trajetória profissional na empresa.Tenho força de vontade para aprender e ajudar na conquista dos melhores resultados.
 
 - 📍  Goiânia, Goias - Brazil
 - 🔭 Hoje trabalho com Front-End
