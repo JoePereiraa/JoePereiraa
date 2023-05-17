@@ -1,6 +1,4 @@
-##
 ## Olá!✌
-##
 
 - 📍  Goiânia, Goias - Brazil
 - 🔭 Hoje trabalho com Front-End, Back-End
