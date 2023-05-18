@@ -1,8 +1,8 @@
-### About me ✍️
+### About me :writing-hand:
 
 - 📍  Goiânia, Goias - Brazil
 - 🔭 Hoje trabalho com Front-End, Back-End
-- 🌱 Estudando React
+- 🌱 Estudando PHP
 - Ferramentas: Vs Code,Figma, Git, GitHub.
 
 <div>
