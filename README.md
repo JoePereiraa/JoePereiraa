@@ -1,4 +1,4 @@
-### About me :writing-hand:
+### About me :writing_hand:
 
 - 📍  Goiânia, Goias - Brazil
 - 🔭 Hoje trabalho com Front-End, Back-End
