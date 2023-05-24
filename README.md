@@ -12,10 +12,10 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=dark"/>
   
 </div>
-<div style="display: inline_block"><br>
-  <img alt="Javascript" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="display: inline_block">
   <img alt="HTML" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Javascript" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img alt="Sass" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img alt="PHP" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="Laravel" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
