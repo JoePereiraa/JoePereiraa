@@ -1,5 +1,6 @@
-<!-- About me -->
-### Hi there, I'm Joe 👋🏾
+<img src="https://user-images.githubusercontent.com/96992081/240711150-3fba9bac-77ee-4e55-9bcd-9550770a38e8.png">
+
+### Opa eai, Joe aqui 👋🏾
 
 ### Eu sou Desenvolvedor e Estudante!
 - 📍  Goiânia, Goias - Brasil
@@ -15,13 +16,6 @@
   
 <hr>
 
-### Connect With me:
- <div>
-<a href="https://instagram.com/juengs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatojuengsfinance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
 <div>
   <a href="https://github.com/JoePereiraa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoePereiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -43,5 +37,11 @@
   <img alt="Laravel" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
     
-##
+### Entre em contato comigo:
+  <hr> 
+ <div>
+<a href="https://instagram.com/juengs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatojuengsfinance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
    
