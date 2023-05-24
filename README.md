@@ -1,9 +1,9 @@
 ### About me :writing_hand:
 
 - 📍  Goiânia, Goias - Brazil
-- 🔭 Hoje trabalho com Front-End, Back-End
-- 🌱 Estudando PHP
-- Ferramentas: Vs Code,Figma, Git, GitHub.
+- 🔭 Hoje trabalho com Full Stack
+- 🌱 Estudando Alpine Js
+- Ferramentas: Vs Code,Figma,  GitHub.
 
 <div>
   <a href="https://github.com/JoePereiraa">
@@ -12,7 +12,7 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=dark"/>
   
 </div>
-<div style="display: inline_block">
+<div style="display: flex; align-items: center; column-gap: 16px">
   <img alt="HTML" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Javascript" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
