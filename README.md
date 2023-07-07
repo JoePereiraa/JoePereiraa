@@ -1,16 +1,17 @@
 <div style="width: 100%;">
   <a href="https://github.com/joepereiraa/joepereiraa/blame/main/banner.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
-<img src="https://user-images.githubusercontent.com/96992081/240711150-3fba9bac-77ee-4e55-9bcd-9550770a38e8.png">
+<!-- <img src="https://user-images.githubusercontent.com/96992081/240711150-3fba9bac-77ee-4e55-9bcd-9550770a38e8.png"> -->
+<br>
 
-### Opa eai, Joe aqui 👋🏾
-
-### Eu sou Desenvolvedor e Estudante!
-- 📍  Goiânia, Goias - Brasil
-- 🔭 Atualmente trabalho com Full Stack
-- 🌱 Estudando qualquer coisa 🤣
+<h3>🗣 About _____________________________________________________</h3>
+<span>
+- 📍  Goiânia, Goias - Brasil <br>
+- 🔭 Atualmente trabalho com Full Stack <br>
+- 🌱 Estudando qualquer coisa
+</span>
 
 <h3>🗂 O que você encontra no meu GitHub ___________________</h3>
 <div>
@@ -36,7 +37,7 @@
 <hr>                                                                                                                                       
 <div style="display: inline">
   <div>
-    <h4>&tl;FrontEnd\&gt;</h4>
+    <h4>&lt;FrontEnd\&gt;</h4>
     <img alt="HTML" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Javascript" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   </div>
