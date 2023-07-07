@@ -1,3 +1,8 @@
+<div style="width: 100%;">
+  <a href="https://github.com/joepereiraa/joepereiraa/blame/main/banner.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 <img src="https://user-images.githubusercontent.com/96992081/240711150-3fba9bac-77ee-4e55-9bcd-9550770a38e8.png">
 
 ### Opa eai, Joe aqui 👋🏾
