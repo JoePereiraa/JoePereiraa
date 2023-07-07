@@ -16,7 +16,7 @@
         --color-main: #07AEE2;
         --color-primary: #242F93;
         --color-secondary: #2A8363;
-        --color-background: #a9a9a9;
+        --color-background: #363636;
         --color-link: #fef29e;
         --color-link-active: #ff4444;
 
