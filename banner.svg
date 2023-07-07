@@ -16,7 +16,7 @@
         --color-main: #07AEE2;
         --color-primary: #242F93;
         --color-secondary: #2A8363;
-        --color-background: red;
+        --color-background: #0d1117;
         --color-link: #fef29e;
         --color-link-active: #ff4444;
 
@@ -36,7 +36,7 @@
       }
 
       .container {
-        background: red;
+        background: var(--color-background);
         height: calc(100% - 10px);
         width: calc(100% - 10px);
         display: flex;
@@ -173,13 +173,9 @@
           --color-main: #9B5DE5;
           --color-primary: #F15BB5;
           --color-secondary: #00BBF9;
-          --color-background: #FFFFFF;
+          --color-background: #ffffff;
           --color-link: #00BBF9;
           --color-link-active: #F15BB5;
-
-          ul {
-            color: #000;
-          }
         }
       }
 
