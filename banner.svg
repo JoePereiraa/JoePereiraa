@@ -16,7 +16,7 @@
         --color-main: #07AEE2;
         --color-primary: #242F93;
         --color-secondary: #2A8363;
-        --color-background: #363636;
+        --color-background: red;
         --color-link: #fef29e;
         --color-link-active: #ff4444;
 
@@ -36,7 +36,7 @@
       }
 
       .container {
-        background: #363636;
+        background: red;
         height: calc(100% - 10px);
         width: calc(100% - 10px);
         display: flex;
