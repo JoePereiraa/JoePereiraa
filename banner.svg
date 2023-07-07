@@ -173,7 +173,7 @@
           --color-main: #9B5DE5;
           --color-primary: #F15BB5;
           --color-secondary: #00BBF9;
-          --color-background: #ffffff;
+          --color-background: #FFFFFF;
           --color-link: #00BBF9;
           --color-link-active: #F15BB5;
 
