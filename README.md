@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/joepereiraa/joepereiraa/blame/main/banner.svg">
+  <div>
     <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
