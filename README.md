@@ -1,20 +1,17 @@
-# Hi, I'm Joe 👋🏾 👨🏾‍💻
-
 <img src="banner.svg" style="width: 100%;" align="left">
 &nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-<div>
-  <div>
-      <h3>🗣 About</h3>
-      - 📍  Goiânia, Goias - Brasil <br>
-      - 🔭 Atualmente trabalho com Full Stack <br>
-      - 🌱 Estudando qualquer coisa
-  </div>
+
+<div align="center" style="height: 300px;">
+   <img align="left" src="plant-pixel.png" align="right" width="200">
+    <p align="left">I ❤️ solve great challenges using tech. <br><br> From backend development using Php to frontend development using Laravel, Vue or React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a     <strong>full stack junior developer</strong> focused on web development.</p>&nbsp;
 </div>
 
+
 <hr>
+
+&nbsp;
 
 ### 🔲 Languages, Technologies:
 <img src="languages.png">
@@ -37,17 +34,9 @@
       
 <br>
 
-### 🎧 Spotify Playing
-
-![spotify-github-profile](/img/default.svg)
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
-
-# Contact me:
+## Contact me:
 
 <div>
-    <a href="https://instagram.com/juengs" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
     <a href="mailto:contatojuengs17@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
