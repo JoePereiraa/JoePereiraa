@@ -11,26 +11,12 @@
   </div>
 </div>
 
+### Languages:
+<img src="languages.png">
+<hr>
 
-
-## Languages and Tools:     
-
-<div>
-  <div>
-    <img alt="HTML" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="Javascript" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-    <img alt="CSS" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Sass" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img alt="Bootstrap" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img alt="Tailwind" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-    <img alt="PHP" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img alt="Laravel" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    <img alt="NodeJS" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img alt="MySQL" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-    <img alt="Postgree" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-    <img alt="Postgree" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  </div>
-</div>
+### Tools:
+<img src="languages.png">
 
 ##### MOTTO
 
