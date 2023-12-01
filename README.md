@@ -1,6 +1,9 @@
 # Hi, I'm Joe 👋🏾 👨🏾‍💻
 
 <img src="banner.svg" style="width: 100%;" align="left">
+&nbsp;
+
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div>
   <div>
@@ -11,12 +14,15 @@
   </div>
 </div>
 
-### Languages:
-<img src="languages.png">
 <hr>
 
-### Tools:
+### 🔲 Languages, Technologies:
 <img src="languages.png">
+
+### 🔲 Tools:
+<img src="languages.png">
+
+<hr>
 
 ##### MOTTO
 
@@ -25,11 +31,16 @@
 <br>
 
 <div align="center">
-    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoePereiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=dark"/>
+    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoePereiraa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=gotham"/>
 </div>
       
 <br>
+
+### 🎧 Spotify Playing
+
+![spotify-github-profile](/img/default.svg)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 # Contact me:
 
