@@ -1,35 +1,20 @@
-<div style="width: 100%;">
+# Hi, I'm Joe 👋🏾 👨🏾‍💻
+
+<img src="banner.svg" style="width: 100%;" align="left">
+
+<div>
   <div>
-    <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
-<!-- <img src="https://user-images.githubusercontent.com/96992081/240711150-3fba9bac-77ee-4e55-9bcd-9550770a38e8.png"> -->
-<hr>
-
-<h3>🗣 About</h3>
-<span>
-- 📍  Goiânia, Goias - Brasil <br>
-- 🔭 Atualmente trabalho com Full Stack <br>
-- 🌱 Estudando qualquer coisa
-</span>
-
-<h3>🗂 O que você encontra no meu GitHub</h3>
-<span>
-  <h4>🏛 Projetos FrontEnd e BackEnd</h4>
-  <h4>📚 Trabalhos da Faculdade</h4>
-  <h4>🎲 Códigos aleatórios</h4>
-</span>
-  
-<hr>
-
-<div >
-    <img width="48%" height="200em" src="https://github-readme-stats.vercel.app/api?username=JoePereiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="48%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=dark"/>
+      <h3>🗣 About</h3>
+      - 📍  Goiânia, Goias - Brasil <br>
+      - 🔭 Atualmente trabalho com Full Stack <br>
+      - 🌱 Estudando qualquer coisa
+  </div>
 </div>
 
-  
-### Languages and Tools:
-<br>                                                                                                                                    
+
+
+## Languages and Tools:     
+
 <div>
   <div>
     <img alt="HTML" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -46,18 +31,33 @@
     <img alt="Postgree" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   </div>
 </div>
-<hr>   
 
-### Contact me:
- <div>
-  <a href="https://instagram.com/juengs" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:contatojuengsfinance@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+##### MOTTO
+
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+
+<br>
+
+<div align="center">
+    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoePereiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
-   
+      
+<br>
+
+# Contact me:
+
+<div>
+    <a href="https://instagram.com/juengs" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:contatojuengs17@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/joengleson-pereira/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+</div>
+&nbsp;&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F7B5B&height=120&section=footer">
