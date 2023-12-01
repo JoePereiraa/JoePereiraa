@@ -17,7 +17,7 @@
 <img src="languages.png">
 
 ### 🔲 Tools:
-<img src="languages.png">
+<img src="tools.png">
 
 <hr>
 
