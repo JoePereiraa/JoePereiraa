@@ -33,7 +33,7 @@
 
 <div align="center">
     <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoePereiraa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=gotham"/>
+    <img width="37%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=gotham"/>
 </div>
       
 <br>
