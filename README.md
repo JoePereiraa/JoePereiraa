@@ -21,6 +21,10 @@
 
 <hr>
 
+<div align="right">
+   <img src="soft-skills.png">
+</div>
+
 ##### MOTTO
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
