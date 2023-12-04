@@ -21,8 +21,8 @@
 
 <hr>
 
-<div align="right">
-   <img src="soft-skills.png">
+<div align="left">
+   <img src="dev-soft-skills.png">
 </div>
 
 ##### MOTTO
@@ -31,9 +31,9 @@
 
 <br>
 
-<div align="center">
+<div align="left">
     <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=JoePereiraa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img width="37%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=gotham"/>
+    <img width="40%" height="232px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoePereiraa&layout=compact&langs_count=7&theme=gotham"/>
 </div>
       
 <br>
