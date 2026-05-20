@@ -5,7 +5,7 @@
 
 <div align="center" style="height: 300px;">
    <img align="left" src="plant-pixel.png" align="right" width="200">
-    <p align="left">I ❤️ solve great challenges using tech. <br><br> From backend development using Php to frontend development using Laravel, Vue or React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a     <strong>full stack junior developer</strong> focused on web development.</p>&nbsp;
+    <p align="left">I ❤️ solve great challenges using tech. <br><br> From backend development using Php to frontend development using Laravel, Vue or React, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a     <strong>full stack developer</strong> focused on web development.</p>&nbsp;
 </div>
 
 
